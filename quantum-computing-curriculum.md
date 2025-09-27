@@ -303,12 +303,17 @@ This comprehensive 30-week curriculum is designed specifically for expert-level 
 - Quantum convolutional layers
 - Training strategies and optimization
 
-**Week 20: Advanced QML Techniques**
+**Week 20: Advanced QML Techniques & Time-Series Prediction**
 
 - Quantum generative adversarial networks
-- Quantum autoencoders
+- Quantum autoencoders for sequence modeling
 - Quantum reinforcement learning
 - Quantum natural language processing
+- **Quantum time-series prediction methods:**
+  - Quantum LSTM and recurrent architectures
+  - Quantum reservoir computing for temporal dynamics
+  - Variational quantum forecasting
+  - Quantum kernels for sequence similarity
 
 **Week 21: QML Frameworks and Applications**
 
@@ -327,9 +332,16 @@ This comprehensive 30-week curriculum is designed specifically for expert-level 
 ### ML Projects
 
 - Image classification with quantum CNNs
-- Time series prediction with QRNNs
+- **Time series prediction with quantum RNNs:**
+  - Stock market forecasting with quantum kernels
+  - Energy demand prediction using hybrid models
+  - Weather forecasting with quantum reservoir computing
 - Natural language sentiment analysis
 - Quantum-enhanced recommendation systems
+- **Predictive analytics applications:**
+  - Medical diagnosis progression modeling
+  - Supply chain demand forecasting
+  - Anomaly detection in sensor networks
 
 ---
 
