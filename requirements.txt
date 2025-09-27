@@ -1,0 +1,29 @@
+# Core Quantum Libraries
+qiskit
+qiskit-aer
+qiskit-machine-learning
+pennylane
+tensorflow-quantum
+cirq
+
+# Scientific Computing
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+
+# Machine Learning
+tensorflow
+torch
+prophet
+statsmodels
+
+# Visualization
+plotly
+seaborn
+
+# Development
+jupyter
+ipywidgets
+pytest

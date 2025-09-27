@@ -1,6 +1,7 @@
 # Quantum Computing Curriculum for Advanced Computer Scientists
 
 Quantum Computing for Advanced Computer Scientists
+
 ## A Practical, Code-First Approach to Quantum Computing with Predictive Analytics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -55,7 +56,7 @@ A unique 4-week supplementary module covering:
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/quantum.edu.git
-cd quantum-computing-curriculum
+cd quantum.edu
 
 # Create virtual environment
 python -m venv quantum_env
@@ -98,13 +99,13 @@ jupyter>=1.0.0
 ipywidgets>=7.6.0
 pytest>=7.0.0
 ```
-
+<!--
 ### 3. Verify Installation
 
 ```python
 # Run verification script
 python verify_installation.py
-```
+``` -->
 
 ---
 
