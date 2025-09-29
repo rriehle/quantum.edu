@@ -51,8 +51,6 @@ A unique 4-week supplementary module covering:
 
 ## 🚀 Quick Start
 
-### 1. Environment Setup
-
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/quantum.edu.git
@@ -65,47 +63,6 @@ source quantum_env/bin/activate  # On Windows: quantum_env\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-### 2. Requirements
-
-```txt
-# Core Quantum Libraries
-qiskit>=0.39.0
-qiskit-aer>=0.11.0
-qiskit-machine-learning>=0.5.0
-pennylane>=0.28.0
-tensorflow-quantum>=0.7.0
-cirq>=1.0.0
-
-# Scientific Computing
-numpy>=1.21.0
-scipy>=1.7.0
-matplotlib>=3.4.0
-pandas>=1.3.0
-scikit-learn>=1.0.0
-
-# Machine Learning
-tensorflow>=2.10.0
-torch>=1.12.0
-prophet>=1.1.0
-statsmodels>=0.13.0
-
-# Visualization
-plotly>=5.0.0
-seaborn>=0.11.0
-
-# Development
-jupyter>=1.0.0
-ipywidgets>=7.6.0
-pytest>=7.0.0
-```
-<!--
-### 3. Verify Installation
-
-```python
-# Run verification script
-python verify_installation.py
-``` -->
 
 ---
 

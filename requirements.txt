@@ -1,20 +1,20 @@
-# Core Quantum Libraries
-qiskit
-qiskit-aer
-qiskit-machine-learning
-pennylane
-tensorflow-quantum
-cirq
+# Install tensorflow-quantum first with its pinned dependencies
+tensorflow-quantum==0.7.3
 
-# Scientific Computing
-numpy
-scipy
+# Then install other quantum libraries that are compatible
+qiskit>=0.45.0
+qiskit-aer>=0.13.0
+qiskit-machine-learning>=0.7.0
+pennylane>=0.33.0
+
+# Scientific Computing - let pip resolve compatible versions
+numpy<2.0
 matplotlib
 pandas
 scikit-learn
 
 # Machine Learning
-tensorflow
+tensorflow>=2.13.0,<2.16
 torch
 prophet
 statsmodels
