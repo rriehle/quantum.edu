@@ -51,8 +51,6 @@ A unique 4-week supplementary module covering:
 
 ## 🚀 Quick Start
 
-### 1. Environment Setup
-
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/quantum.edu.git
