@@ -442,9 +442,9 @@ If you use this curriculum in your research or teaching, please cite:
 ```bibtex
 @misc{quantum-curriculum-2024,
   title={Quantum Computing Curriculum for Expert Computer Scientists},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/quantum-computing-curriculum}
+  author={Richard Riehle},
+  year={2025},
+  url={https://github.com/rriehle/quantum.edu}
 }
 ```
 
