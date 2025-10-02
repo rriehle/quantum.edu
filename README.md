@@ -66,38 +66,15 @@ source quantum_env/bin/activate  # On Windows: quantum_env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Requirements
+### 2. Installation
 
-```txt
-# Core Quantum Libraries
-qiskit>=0.39.0
-qiskit-aer>=0.11.0
-qiskit-machine-learning>=0.5.0
-pennylane>=0.28.0
-tensorflow-quantum>=0.7.0
-cirq>=1.0.0
+> **⚠️ Platform Note:** TensorFlow Quantum prefers Linux and is unsupported on macOS. See [README-install.md](README-install.md) for platform-specific instructions.
 
-# Scientific Computing
-numpy>=1.21.0
-scipy>=1.7.0
-matplotlib>=3.4.0
-pandas>=1.3.0
-scikit-learn>=1.0.0
+For detailed installation instructions including Docker setup and troubleshooting, see **[README-install.md](README-install.md)**.
 
-# Machine Learning
-tensorflow>=2.10.0
-torch>=1.12.0
-prophet>=1.1.0
-statsmodels>=0.13.0
-
-# Visualization
-plotly>=5.0.0
-seaborn>=0.11.0
-
-# Development
-jupyter>=1.0.0
-ipywidgets>=7.6.0
-pytest>=7.0.0
+**Quick Install (Linux):**
+```bash
+pip install -r requirements.txt
 ```
 <!--
 ### 3. Verify Installation
