@@ -299,12 +299,6 @@ device = AwsDevice("arn:aws:braket::1:device/quantum-simulator/amazon/sv1")
 5. **Flexible Pacing**: Self-study or cohort-based
 6. **Community Support**: Active Discord and forums
 
-### Success Stories
-
-> "After completing this curriculum, I transitioned from classical ML to a quantum computing role at a major tech company. The practical focus was exactly what I needed." - *Sarah K., Quantum Software Engineer*
-
-> "The prediction module helped me build a quantum-enhanced trading system that's now in production." - *Michael T., Quantitative Developer*
-
 ---
 
 ## 🤝 Contributing
